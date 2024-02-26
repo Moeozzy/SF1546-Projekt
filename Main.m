@@ -1,5 +1,4 @@
 % Projektarbete "Raketen"
-% Axel Arvidzon och Marcus Bohl
 close all; clear all; clc;
 
 global alpha
